@@ -22,5 +22,8 @@ class ViewController: UIViewController {
         //no code here
     }
 
+    func newOne() {
+        print("hello there")
+    }
 }
 
